@@ -11,7 +11,7 @@ body {
 }
 /* Header */
 header {
-	text-align: center;
+	text-align: right;
 	display: block;
 }
 header .profileLogo .logoPlaceholder {
@@ -24,7 +24,7 @@ header .logoPlaceholder span {
 	height: 22px;
 	font-family: 'Montserrat', sans-serif;
 	color: rgba(255,255,255,1.00);
-	font-size: 30px;
+	font-size: 300px;
 	font-weight: 700;
 	line-height: 53px;
 }
